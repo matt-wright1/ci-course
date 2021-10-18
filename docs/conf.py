@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'CI Course'
+project = 'CI Course - Matthew Wright'
 copyright = '2021, Matthew Wright'
 author = 'Matthew Wright'
 
