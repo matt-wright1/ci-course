@@ -2,6 +2,8 @@
 
 [![Run on multiple OSs](https://github.com/matt-wright1/ci-course/actions/workflows/os-tests.yml/badge.svg)](https://github.com/matt-wright1/ci-course/actions/workflows/os-tests.yml)
 
+[![BCH compliance](https://bettercodehub.com/edge/badge/matt-wright1/ci-course?branch=main)](https://bettercodehub.com/)
+
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
